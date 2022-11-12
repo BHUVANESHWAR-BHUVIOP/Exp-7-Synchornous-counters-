@@ -91,8 +91,8 @@ endmodule
 ### PROGRAM :
 ```
 Program for Down Counter  and verify its truth table in quartus using Verilog programming.
-Developed by: Rithiga Sri.B
-RegisterNumber:  212221230083
+Developed by: BHHUVANESHWAR V
+RegisterNumber:  212221240009
 
 module DC(input clk,input reset,output[0:3]counter);  
 reg[0:3]counter_down;  
